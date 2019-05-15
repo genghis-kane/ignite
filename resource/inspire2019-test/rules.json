@@ -118,41 +118,7 @@
             "Reporting": {
                 "SessionCounts": true
             },
-            "EvalAccess": [{
-                "Identifier": "PreEventSurvey",
-                "SessionTypes": ["Pre Event  Survey"],
-                "Mobile": true,
-                "WebSite": true
-            },{
-                "Identifier": "PostEventSurvey",
-                "SessionTypes": ["Post Event  Survey"],
-                "Mobile": true,
-                "WebSite": true
-            }, {
-                "Identifier": "RegularSessionEvaluations",
-                "SessionTypes": [
-                    "Breakout: 45 minute",
-                    "Breakout: 75 minute",
-                    "General Session",
-                    "Microsoft Studio",
-                    "Theater",
-                    "Workshop",
-                    "MVP PreDay",
-                    "Pre-Day Training"
-                ],
-                "Mobile": true,
-                "WebSite": true
-            }, {
-                "Identifier": "KeynoteAfternoonEvaluation",
-                "SessionTypes": ["Technology Keynote"],
-                "Mobile": true,
-                "WebSite": true
-            }, {
-                "Identifier": "KeynoteMorningEvaluation",
-                "SessionTypes": ["Vision Keynote"],
-                "Mobile": true,
-                "WebSite": true
-            }],
+            "EvalAccess": [],
             "SessionSetAccess": [{
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
@@ -217,41 +183,7 @@
             "Reporting": {
                 "SessionCounts": true
             },
-            "EvalAccess": [{
-                "Identifier": "PreEventSurvey",
-                "SessionTypes": ["Pre Event  Survey"],
-                "Mobile": false,
-                "WebSite": false
-            },{
-                "Identifier": "PostEventSurvey",
-                "SessionTypes": ["Post Event  Survey"],
-                "Mobile": true,
-                "WebSite": true
-            }, {
-                "Identifier": "RegularSessionEvaluations",
-                "SessionTypes": [
-                    "Breakout: 45 minute",
-                    "Breakout: 75 minute",
-                    "General Session",
-                    "Microsoft Studio",
-                    "Theater",
-                    "Workshop",
-                    "MVP PreDay",
-                    "Pre-Day Training"
-                ],
-                "Mobile": true,
-                "WebSite": true
-            }, {
-                "Identifier": "KeynoteAfternoonEvaluation",
-                "SessionTypes": ["Technology Keynote"],
-                "Mobile": true,
-                "WebSite": true
-            }, {
-                "Identifier": "KeynoteMorningEvaluation",
-                "SessionTypes": ["Vision Keynote"],
-                "Mobile": true,
-                "WebSite": true
-            }],
+            "EvalAccess": [],
             "SessionSetAccess": [{
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
@@ -310,41 +242,7 @@
             "Reporting": {
                 "SessionCounts": true
             },
-            "EvalAccess": [{
-                "Identifier": "PreEventSurvey",
-                "SessionTypes": ["Pre Event  Survey"],
-                "Mobile": false,
-                "WebSite": false
-            },{
-                "Identifier": "PostEventSurvey",
-                "SessionTypes": ["Post Event  Survey"],
-                "Mobile": false,
-                "WebSite": false
-            }, {
-                "Identifier": "RegularSessionEvaluations",
-                "SessionTypes": [
-                    "Breakout: 45 minute",
-                    "Breakout: 75 minute",
-                    "General Session",
-                    "Microsoft Studio",
-                    "Theater",
-                    "Workshop",
-                    "MVP PreDay",
-                    "Pre-Day Training"
-                ],
-                "Mobile": false,
-                "WebSite": false
-            }, {
-                "Identifier": "KeynoteAfternoonEvaluation",
-                "SessionTypes": ["Technology Keynote"],
-                "Mobile": false,
-                "WebSite": false
-            }, {
-                "Identifier": "KeynoteMorningEvaluation",
-                "SessionTypes": ["Vision Keynote"],
-                "Mobile": false,
-                "WebSite": false
-            }],
+            "EvalAccess": [],
             "SessionSetAccess": []
         },{
             "Identifiers": [
@@ -387,41 +285,7 @@
             "Reporting": {
                 "SessionCounts": true
             },
-            "EvalAccess": [{
-                "Identifier": "PreEventSurvey",
-                "SessionTypes": ["Pre Event  Survey"],
-                "Mobile": false,
-                "WebSite": false
-            },{
-                "Identifier": "PostEventSurvey",
-                "SessionTypes": ["Post Event  Survey"],
-                "Mobile": false,
-                "WebSite": false
-            }, {
-                "Identifier": "RegularSessionEvaluations",
-                "SessionTypes": [
-                    "Breakout: 45 minute",
-                    "Breakout: 75 minute",
-                    "General Session",
-                    "Microsoft Studio",
-                    "Theater",
-                    "Workshop",
-                    "MVP PreDay",
-                    "Pre-Day Training"
-                ],
-                "Mobile": false,
-                "WebSite": false
-            }, {
-                "Identifier": "KeynoteAfternoonEvaluation",
-                "SessionTypes": ["Technology Keynote"],
-                "Mobile": false,
-                "WebSite": false
-            }, {
-                "Identifier": "KeynoteMorningEvaluation",
-                "SessionTypes": ["Vision Keynote"],
-                "Mobile": false,
-                "WebSite": false
-            }],
+            "EvalAccess": [],
             "SessionSetAccess": []
         },{
             "Identifiers": [
@@ -465,41 +329,7 @@
             "Reporting": {
                 "SessionCounts": true
             },
-            "EvalAccess": [{
-                "Identifier": "PreEventSurvey",
-                "SessionTypes": ["Pre Event  Survey"],
-                "Mobile": false,
-                "WebSite": false
-            },{
-                "Identifier": "PostEventSurvey",
-                "SessionTypes": ["Post Event  Survey"],
-                "Mobile": false,
-                "WebSite": false
-            }, {
-                "Identifier": "RegularSessionEvaluations",
-                "SessionTypes": [
-                    "Breakout: 45 minute",
-                    "Breakout: 75 minute",
-                    "General Session",
-                    "Microsoft Studio",
-                    "Theater",
-                    "Workshop",
-                    "MVP PreDay",
-                    "Pre-Day Training"
-                ],
-                "Mobile": false,
-                "WebSite": false
-            }, {
-                "Identifier": "KeynoteAfternoonEvaluation",
-                "SessionTypes": ["Technology Keynote"],
-                "Mobile": false,
-                "WebSite": false
-            }, {
-                "Identifier": "KeynoteMorningEvaluation",
-                "SessionTypes": ["Vision Keynote"],
-                "Mobile": false,
-                "WebSite": false
-            }],
+            "EvalAccess": [],
             "SessionSetAccess": []
         }
     ]
